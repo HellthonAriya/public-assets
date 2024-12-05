@@ -1,7 +1,7 @@
 {
   "operatingSystems": [
     {
-      "name": "اپل",
+      "name": "آی‌او‌اس",
       "engName": "iOS",
       "osLogo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/Apple_logo_black.svg",
       "apps": [
@@ -13,7 +13,7 @@
           "faDescription": "استرایزند یک سرور جدید با نرم‌افزارهای متنوع ضد سانسور راه‌اندازی می‌کند.",
           "configLink": "streisand://import/{url}",
           "downloadLink": "https://apps.apple.com/us/app/streisand/id6450534064",
-          "videoLink": "https://example.com/streisand-video"
+          "videoLink": "https://t.me/KingPingCH/45"
         },
         {
           "name": "Shadowrocket",
@@ -33,7 +33,17 @@
           "faDescription": "V2Box یک کلاینت V2Ray چندسکویی است.",
           "configLink": "v2box://install-sub?url={url}&name=SUBnew",
           "downloadLink": "https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690",
-          "videoLink": "https://example.com/v2box-video"
+          "videoLink": "https://t.me/KingPingCH/44"
+        },
+        {
+          "name": "FoXray",
+          "price": "0",
+          "logo": "https://raw.githubusercontent.com/HellthonAriya/public-assets/refs/heads/main/icons/foxray.png",
+          "description": "A cross-platform V2Ray client.",
+          "faDescription": "FoXray یک کلاینت V2Ray چندسکویی است.",
+          "configLink": "foxray://install-sub?url={url}&name=SUBnew",
+          "downloadLink": "https://apps.apple.com/us/app/foxray/id6448898396",
+          "videoLink": "https://t.me/KingPingCH/46"
         }
       ]
     },
@@ -50,7 +60,7 @@
           "faDescription": "V2rayNG یک کلاینت V2Ray برای دستگاه‌های اندرویدی است.",
           "configLink": "v2rayng://install-config?url={url}",
           "downloadLink": "https://play.google.com/store/apps/details?id=com.v2ray.ang",
-          "videoLink": "https://example.com/v2rayng-video"
+          "videoLink": "https://t.me/KingPingCH/41"
         },
         {
           "name": "V2box",
@@ -60,7 +70,7 @@
           "faDescription": "V2Box یک کلاینت V2Ray چندسکویی است.",
           "configLink": "v2box://install-sub?url={url}&name=SUBnew",
           "downloadLink": "https://play.google.com/store/apps/details?id=dev.hexasoftware.v2box&hl=en_GB",
-          "videoLink": "https://example.com/v2box-video"
+          "videoLink": "https://t.me/KingVPNconfig_BOT"
         }
       ]
     },
@@ -77,7 +87,7 @@
           "faDescription": "v2rayN یک کلاینت V2Ray برای ویندوز با پشتیبانی از رابط کاربری است.",
           "configLink": "v2rayng://install-config",
           "downloadLink": "https://github.com/2dust/v2rayN/releases/download/6.55/v2rayN-With-Core.zip",
-          "videoLink": "https://example.com/v2rayn-video"
+          "videoLink": "https://t.me/KingPingCH/47"
         }
       ]
     },
