@@ -1,20 +1,26 @@
 [
   {
-    "name": "WhatsApp",
-    "nameFa": "واتس اپ",
-    "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/WhatsApp.svg",
-    "contact_link": "https://wa.me/your-number"
-  },
-  {
-    "name": "Telegram",
-    "nameFa": "تلگرام",
+    "name": "Telegram Channel",
+    "nameFa": "کانال تلگرام",
     "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/Telegram.svg",
-    "contact_link": "https://t.me/your-username"
+    "contact_link": "https://t.me/KingPingCH"
   },
   {
-    "name": "Instagram",
-    "nameFa": "اینستاگرام",
-    "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/Instagram.png",
-    "contact_link": "https://www.instagram.com/your-username"
-  }
+    "name": "Telegram Support",
+    "nameFa": "اکانت پشتیبانی اصلی",
+    "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/Telegram.svg",
+    "contact_link": "https://t.me/KingPingSUP"
+  },
+  {
+    "name": "Telegram Admin",
+    "nameFa": "اکانت ادمین",
+    "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/Telegram.svg",
+    "contact_link": "https://t.me/KingAriya"
+  },
+  {
+    "name": "Telegram Bot",
+    "nameFa": "ربات فروش",
+    "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/Telegram.svg",
+    "contact_link": "https://t.me/KingVPNconfig_BOT"
+  },
 ]
